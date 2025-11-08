@@ -10,7 +10,7 @@ const reverseString = function(theWord) {
 
 
 console.log(
-    reverseString("hello")
+    reverseString("")
 )
 
 // Do not edit below this line

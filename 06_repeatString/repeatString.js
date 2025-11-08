@@ -15,7 +15,7 @@ const repeatString = function(string , num) {
 
 
 
-console.log(repeatString("goodbye" , -1))
+console.log(repeatString(" " , 10))
 
 // Do not edit below this line
 module.exports = repeatString;

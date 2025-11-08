@@ -1,5 +1,6 @@
 const reverseString = function(theWord) {
-    return theWord.split('')
+    let newWord =  theWord.split('');
+    return newWord.reverse('')
 
 
 
